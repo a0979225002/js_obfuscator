@@ -9,4 +9,4 @@ cocos打包加密插件
 
 
 
-![image-20210702153153721](C:\Users\蕭立品\Desktop\js_obfuscator\image-20210702153153721.png)
+![image-20210702153153721](image-20210702153153721.png)
