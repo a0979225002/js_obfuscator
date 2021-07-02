@@ -1,0 +1,10 @@
+{
+	"name": "js_obfuscate",
+	"version": "1.0",
+	"description": "打包後自動混淆加密",
+	"author": "XIAO_LI_PIN",
+	"main": "main.js",
+	"dependencies": {
+		"javascript-obfuscator": "^2.15.5"
+	}
+}
